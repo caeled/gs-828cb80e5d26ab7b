@@ -1,0 +1,6 @@
+Duck Problem Documents deposit 2026-09-19
+Source: FullSetPapers.zip on Drive
+Status: write path restored after GitHub App Contents grant.
+First landing: Documents/README.md (73b1140)
+This commit starts the extracted-text deposit.
+Remaining papers follow in subsequent commits.

@@ -1,0 +1,12 @@
+Session Context Management — How To
+TheDuckProblem Research Suite | RunningPartial Suite
+Designed: 2026-07-07 | Author: Steven Powell + Perplexity Council
+
+
+Why This Exists
+Long sessions compress. When a session gets long enough, Perplexity compacts the earlier turns
+— context gets summarized instead of preserved verbatim. When that happens, the AI starts
+guessing at things it used to know precisely: paper numbers, Drive IDs, which conversation
+something happened in, what you actually said.
+This system is the mailbox protocol applied inward. Instead of emailing context across a session
+boundary, you load it.
